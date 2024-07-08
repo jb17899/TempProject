@@ -1,0 +1,14 @@
+
+.back-none{
+    width:240px!important;
+    height: 40px !important;
+    text-align: left!important;
+    box-shadow: 0 0 2px 0.5px #b2bec3!important;
+    border: none!important;
+}
+.back-none-modal{
+    width: 100%!important;
+}
+.back-none:hover{
+    border: 1px solid #b2bec3!important;
+}
